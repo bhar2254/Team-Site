@@ -5,7 +5,7 @@
         <ul class="nav nav-list bs-docs-sidenav">
           <li><a href="#1"><i class="icon-chevron-right"></i>Cow Town Throwdown</a></li>
           <li><a href="#2"><i class="icon-chevron-right"></i>Kansas City Regionals</a></li>
-          <li><a href="#3"><i class="icon-chevron-right"></i>Razorback Regional</a></li>
+          <li><a href="#3"><i class="icon-chevron-right"></i>Queen City Regional</a></li>
           <li><a href="#4"><i class="icon-chevron-right"></i>St. Louis National Championship</a></li>
           <!--<li><a href="#5"><i class="icon-chevron-right"></i>2008-2009</a></li>-->
         </ul>
@@ -30,8 +30,8 @@
 			<div class="featurette" id="3">
 				<img class="featurette-image pull-right" src="/bootstrap/img/competitions/razorback_regional.png" width="300" style="width:300px;" alt="">
 				<a target="_blank" href="http://www.coloradofirst.org/coloradoregional.htm"><h2 class="featurette-heading">Razorback Regional</h2></a>
-				<p class="lead">The Razorback Regional is held by the University of Arkansas, in Fayetteville, Arkansas. This competition will be held April 4-6. Over 2,000 high school students, professional mentors and family members will gather in Barnhill Arena to compete for six coveted spots to go to the World Championship in St. Louis.</p>
-                                <a class="btn" href="razorback">More Event Information</a>
+				<p class="lead">The Queen City Regional is held by the Xavier University, in Cincinnati, Ohio. This competition was held April 1-4. Over 2,000 high school students, professional mentors and family members will gather in the CINTAS Center to compete for six coveted spots to go to the World Championship in St. Louis.</p>
+                                <a class="btn" href="queencity">More Event Information</a>
 		  </div>
 		  <hr class="featurette-divider">
 			<div class="featurette featurette-right" id="4">

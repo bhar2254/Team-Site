@@ -6,8 +6,8 @@
           <li><a href="#1"><i class="icon-chevron-right"></i>Executive</a></li>
           <li><a href="#2"><i class="icon-chevron-right"></i>Logistics</a></li>
           <li><a href="#3"><i class="icon-chevron-right"></i>Operations</a></li>
-		  <li><a href="#5"><i class="icon-chevron-right"></i>Public Relations</a></li>
-		  <li><a href="#6"><i class="icon-chevron-right"></i>Finances</a></li>
+		  <li><a href="#4"><i class="icon-chevron-right"></i>Public Relations</a></li>
+		  <li><a href="#5"><i class="icon-chevron-right"></i>Finances</a></li>
         </ul>
       </div>
         <div class="offset3 span9">
@@ -303,7 +303,7 @@
 			</div>
 			</div>
 		  	<hr class="featurette-divider">
-				<div class="featurette offset3" id="5">
+				<div class="featurette" id="5">
 					<h2 class="featurette-heading">Finances</h2>
 					<p class="lead"><strong>Chief Financial Officer (CFO):</strong> Mentored by Ashley Heaivilin
 				<div class="positionDesc">
