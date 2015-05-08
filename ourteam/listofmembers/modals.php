@@ -17,7 +17,22 @@
 <!-- coo -->
 <div id="coo" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="modal-header">
-		<h3>Dallas B.</h3>
+		<h3>Jean-Charles L.</h3>
+	</div>
+	<div class="modal-body">
+		<p><strong>Grade: </strong>12th</p>
+		<p><strong>Postion: </strong>Chief Operations Officer</p>
+		<p><strong>Number of years on team: </strong>3</p>
+		<p><strong>Why did you join the team: </strong>I joined after hearing about what they do and finding an interest in working with my hands.</p>
+	</div>
+	<div class="modal-footer">
+		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+	</div>
+</div>
+<!-- clo -->
+<div id="clo" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-header">
+		<h3>Anthony B.</h3>
 	</div>
 	<div class="modal-body">
 		<p><strong>Grade: </strong>12th</p>

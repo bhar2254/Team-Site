@@ -4,9 +4,8 @@
         <div data-spy="affix" class="span3 bs-docs-sidebar">
         <ul class="nav nav-list bs-docs-sidenav">
           <li><a href="#1"><i class="icon-chevron-right"></i>Executive</a></li>
-          <li><a href="#2"><i class="icon-chevron-right"></i>Quality</a></li>
+          <li><a href="#2"><i class="icon-chevron-right"></i>Logistics</a></li>
           <li><a href="#3"><i class="icon-chevron-right"></i>Operations</a></li>
-          <li><a href="#4"><i class="icon-chevron-right"></i>Media</a></li>
 		  <li><a href="#5"><i class="icon-chevron-right"></i>Public Relations</a></li>
 		  <li><a href="#6"><i class="icon-chevron-right"></i>Finances</a></li>
         </ul>
@@ -44,7 +43,7 @@
 		  <hr class="featurette-divider">
 			<div class="featurette offset3" id="2">
 				<h2 class="featurette-heading featurette-right">Quality</h2>
-				<p class="lead"><strong>Chief Quality Officer (CQO):</strong> Mentored by Ashley Heaivilin and Jon Nelson
+				<p class="lead"><strong>Chief Logistics Officer (CLO):</strong> Mentored by Ashley Heaivilin and Jon Nelson
 			<div class="positionDesc">
 				<ul>
 					<li>Maintains the quality of team</li>
@@ -191,70 +190,6 @@
 			</div>
 		  </div>
 		  <hr class="featurette-divider">
-			<div class="featurette offset3" id="4">
-				<h2 class="featurette-heading featurette-right">Media</h2>
-				<p class="lead"><strong>Chief Media Officer (CMO):</strong> Mentored by Jacob Carter
-			<div class="positionDesc">
-				<ul>
-					<li>Ensures all related deadlines are met</li>
-					<li>Verifies all related award requirements and submission dates</li>
-					<li>Creates and updates BCDR (Business continuity, Disaster recovery) plan annually with CQO and CEO</li>
-					<li>Supervises Animation Lead, Web Lead, Graphic Design Lead, and Video/Film Crew Lead</li>
-				</ul>
-				<div class="indented">
-					<strong>Animation Lead</strong>
-					<ul>
-						<li>Creates safety animation</li>
-						<li>Responsible for submission of the animation award</li>
-						<li>Supervises Animation Team</li>
-					</ul>
-					<div class="indented">
-						<strong>Animation Team</strong>
-						<ul>
-							<li>Assists the Animation Lead with animation award creation</li>
-						</ul>
-					</div>
-					<strong>Web Lead</strong>
-					<ul>
-						<li>Creates and maintains website</li>
-						<li>Responsible for website submission</li>
-						<li>Supervises Web Team</li>
-					</ul>
-				<div class="indented">
-					<strong>Web Team</strong>
-					<ul>
-						<li>Assists the Website Lead with development and maintenance of team website</li>
-					</ul>
-				</div>
-					<strong>Graphics Design Lead</strong>
-					<ul>
-						<li>Creates promotional materials</li>
-						<li>Assists Scout Lead with robot information sheet creation and maintenance</li>
-						<li>Supervises Graphic Design Team</li>
-					</ul>
-					<div class="indented">
-						<strong>Graphics Design Team</strong>
-						<ul>
-							<li>Assists the Lead Graphics Designer with creation of promotional materials </li>
-						</ul>
-					</div>
-					<strong>Video/Film Crew Lead</strong>
-					<ul>
-						<li>Ensures each event is successfully recorded</li>
-						<li>Helps create the end of year video that highlights build and competition season</li>
-						<li>Creates promotional videos for KLHS and TV spots</li>
-						<li>Supervises Video and Film Team</li>
-					</ul>
-					<div class="indented">
-						<strong>Video/Film Team</strong>
-						<ul>
-							<li>Assists Video and Film Crew Lead with creation of promotional materials </li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		  </div>
-		  <hr class="featurette-divider">
 			<div class="featurette" id="5">
 				<h2 class="featurette-heading">Public Relations</h2>
 				<p class="lead"><strong>Chief Public Relations Officer (CPRO):</strong> Mentored by Ashley Heaivilin
@@ -313,6 +248,55 @@
 						<strong>Presentation Team</strong>
 						<ul>
 							<li>Presents materials pertaining to FIRST Team 1764 upon request</li>
+						</ul>
+					</div>
+					<strong>Animation Lead</strong>
+					<ul>
+						<li>Creates safety animation</li>
+						<li>Responsible for submission of the animation award</li>
+						<li>Supervises Animation Team</li>
+					</ul>
+					<div class="indented">
+						<strong>Animation Team</strong>
+						<ul>
+							<li>Assists the Animation Lead with animation award creation</li>
+						</ul>
+					</div>
+					<strong>Web Lead</strong>
+					<ul>
+						<li>Creates and maintains website</li>
+						<li>Responsible for website submission</li>
+						<li>Supervises Web Team</li>
+					</ul>
+				<div class="indented">
+					<strong>Web Team</strong>
+					<ul>
+						<li>Assists the Website Lead with development and maintenance of team website</li>
+					</ul>
+				</div>
+					<strong>Graphics Design Lead</strong>
+					<ul>
+						<li>Creates promotional materials</li>
+						<li>Assists Scout Lead with robot information sheet creation and maintenance</li>
+						<li>Supervises Graphic Design Team</li>
+					</ul>
+					<div class="indented">
+						<strong>Graphics Design Team</strong>
+						<ul>
+							<li>Assists the Lead Graphics Designer with creation of promotional materials </li>
+						</ul>
+					</div>
+					<strong>Video/Film Crew Lead</strong>
+					<ul>
+						<li>Ensures each event is successfully recorded</li>
+						<li>Helps create the end of year video that highlights build and competition season</li>
+						<li>Creates promotional videos for KLHS and TV spots</li>
+						<li>Supervises Video and Film Team</li>
+					</ul>
+					<div class="indented">
+						<strong>Video/Film Team</strong>
+						<ul>
+							<li>Assists Video and Film Crew Lead with creation of promotional materials </li>
 						</ul>
 					</div>
 					</div>
