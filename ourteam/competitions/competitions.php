@@ -28,8 +28,8 @@
 		  </div>
 		  <hr class="featurette-divider">
 			<div class="featurette" id="3">
-				<img class="featurette-image pull-right" src="/bootstrap/img/competitions/razorback_regional.png" width="300" style="width:300px;" alt="">
-				<a target="_blank" href="http://www.coloradofirst.org/coloradoregional.htm"><h2 class="featurette-heading">Razorback Regional</h2></a>
+				<img class="featurette-image pull-right" src="/bootstrap/img/competitions/queencity_regional.png" width="300" style="width:300px;" alt="">
+				<a target="_blank" href="http://www.coloradofirst.org/coloradoregional.htm"><h2 class="featurette-heading">Queen City Regional</h2></a>
 				<p class="lead">The Queen City Regional is held by the Xavier University, in Cincinnati, Ohio. This competition was held April 1-4. Over 2,000 high school students, professional mentors and family members will gather in the CINTAS Center to compete for six coveted spots to go to the World Championship in St. Louis.</p>
                                 <a class="btn" href="queencity">More Event Information</a>
 		  </div>
