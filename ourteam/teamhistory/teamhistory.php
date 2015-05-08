@@ -22,8 +22,9 @@
       <div class="featurette">
       FIRST<sup>&reg;</sup> Team 1764 was established in 2005 with the help of our founding sponsor, the Ewing Marion Kauffman Foundation. In the five years since, the team has grown and developed into a successful program that holds many proud accomplishments.
       </div>
+      
       <hr class="featurette-divider">
-      <div class="featurette" id="10">
+      <div class="featurette featurette-right" id="10">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2011-2012.jpg" width="200" height="200" alt="">
         <h2 class="featurette-heading">2014-2015</h2>
         <p class="lead">“<a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2015-game">Recycle Rush</a>” is a recycling-themed game played by two Alliances of three robots each. Robots score points by stacking totes on scoring platforms, capping those stacks with recycling containers, and properly disposing of pool noodles, representing litter. In keeping with the recycling theme of the game, all game pieces used are reusable or recyclable by teams in their home locations or by FIRST at the end of the season.
@@ -32,6 +33,7 @@
 		<strong>Entrepreneurship Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
         <strong>Engineering Inspiration Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Engineering Inspiration award which celebrates outstanding success in advancing respect and appreciation for engineering within a team&rsquo;s school and community.<br/><br/>
       </div>
+      
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="9">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2010-2011.jpg" width="200" height="200" alt="">
@@ -40,10 +42,10 @@
           <h3>Awards:</h3>
         <strong>Industrial Safety Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 was presented the Industrial Safety Award for progressing beyond safety fundamentals by using innovative ways to eliminate and protect against hazards.<br/>
         <strong>Engineering Inspiration Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Engineering Inspiration award which celebrates outstanding success in advancing respect and appreciation for engineering within a team&rsquo;s school and community.<br/><br/>
-        
         </div>
+        
       <hr class="featurette-divider">
-      <div class="featurette" id="8">
+      <div class="featurette featurette-right" id="8">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2011-2012.jpg" width="200" height="200" alt="">
         <h2 class="featurette-heading">2012-2013</h2>
         <p class="lead">“<a target="_blank" href="http://www.usfirst.org/aboutus/rebound-rumble-robotics-game-unveiled-by-dean-kamen-and-host-of-celebrities">Rebound Rumble</a>” was based off of basketball. During a match our robot would try to collect small basketballs and throw them into basketball hoops of varying heights and point values. The field was divided by a small bump with teeter-totter “bridges”. That year, FIRST added a twist to the autonomous period at the beginning of the round: one team per alliance could use the Microsoft Kinect to control the robot in a new “hybrid” mode. The end-game required teams to balance on the bridges in the middle of the field for bonus points, and had the opportunity to gain rank-affecting “coopertition” points by balancing with the other alliance on the middle bridge. That year, FIRST Team 1764 competed at the Kansas City and Colorado Regionals. The team earned the Industrial Safety Award and Entrepreneurship Award as the Greater Kansas City Regional. At the Colorado Regional in Denver, the team was selected for an alliance and made it to semifinals. We were also rewarded with the Engineering Inspiration Award for the third year in a row thanks in large part to our new project: The Robot Builds Me. Thanks to this we qualified for Championships at St. Louis.
@@ -52,6 +54,7 @@
 		<strong>Entrepreneurship Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
         <strong>Engineering Inspiration Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Engineering Inspiration award which celebrates outstanding success in advancing respect and appreciation for engineering within a team&rsquo;s school and community.<br/><br/>
       </div>
+      
       <hr class="featurette-divider">
       <div class="featurette" id="7">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2011-2012.jpg" width="200" height="200" alt="">
@@ -62,6 +65,7 @@
 		<strong>Entrepreneurship Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
         <strong>Engineering Inspiration Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Engineering Inspiration award which celebrates outstanding success in advancing respect and appreciation for engineering within a team&rsquo;s school and community.<br/><br/>
       </div>
+      
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="6">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2010-2011.jpg" width="200" height="200" alt="">
@@ -70,8 +74,8 @@
           <h3>Awards:</h3>
         <strong>Industrial Safety Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 was presented the Industrial Safety Award for progressing beyond safety fundamentals by using innovative ways to eliminate and protect against hazards.<br/>
         <strong>Engineering Inspiration Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Engineering Inspiration award which celebrates outstanding success in advancing respect and appreciation for engineering within a team&rsquo;s school and community.<br/><br/>
-        
         </div>
+        
       <hr class="featurette-divider">
       <div class="featurette" id="5">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2009-2010.jpg" width="200" height="200" alt="">
@@ -80,9 +84,9 @@
           <h3>Awards:</h3>
         <strong>Engineering Inspiration Award</strong> &mdash; Celebrates the team's success in advancing respect and appreciation for engineering within the Liberty School District and community. In recognition of these virtues, the team was qualified for attendance at the Atlanta Nationals competition.<br/>
         <strong>Safety Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 earned this award for consistently demonstrating excellence in industrial safety throughout the competition.<br/>
-        <strong>Judges Award</strong> &mdash; The Judges Award was presented in recognition of the team's efforts, performance and/or dynamics which were found to be exemplary.
-        
+        <strong>Judges Award</strong> &mdash; The Judges Award was presented in recognition of the team's efforts, performance and/or dynamics which were found to be exemplary.  
       </div>
+      
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="4">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2008-2009.jpg" width="200" height="200" alt="">
@@ -93,8 +97,8 @@
         <strong>Gracious Professionalism Award</strong> &mdash; We were chosen for this award by the teams participating in the St. Louis Regional. Teams are asked to vote for a team who shows and most defines the meaning of Gracious Professionalism.<br/>
         <strong>Rockwell Automation Innovation Award</strong> &mdash; This award was bestowed on us for being the only team to score in autonomous mode at the St. Louis Regional.<br/>
         <strong>CAD Finalist</strong> &mdash; We were chosen as one of the top five teams worldwide to compete for the CAD Award at the finals in Atlanta, GA. Teams are chosen as finalists for their skills and use of applications in Autodesk Inventor.
-      
       </div>
+      
       <hr class="featurette-divider">
       <div class="featurette" id="3">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2007-2008.jpg" width="200" height="200" alt="">
@@ -103,14 +107,15 @@
           <h3>Awards:</h3>
         <strong>Motorola Quality Award</strong> &mdash; We received this award due to the ingenuity and application of omni-drive to our unique robot. Furthermore, our omni-drive wheels were student designed by Logan W. and custom manufactured by Pride Manufacturing. <br/>
         <strong>CAD Finalist</strong> &mdash; We were chosen as one of the top five teams worldwide to compete for the CAD Award at the finals in Atlanta, GA. Teams are chosen as finalists for their skills and use of applications in Autodesk Inventor.
-      
       </div>
+      
       <hr class="featurette-divider">
       <div class="featurette" id="2">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2006-2007.jpg" width="200" height="200" alt="">
         <h2 class="featurette-heading">2006-2007</h2>
         <p class="lead">The 2006-2007 game "<a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2007-competition-manual-and-related-documents">Rack and Roll</a>" featured an aluminum structure called the "rack" on which blue and red inter-tubes were placed and scored in a "connect four" fashion. At the end of the game, robots scrambled to lift and be lifted by their team-mates. FIRST<sup>&reg;</sup> Team 1764's robot "Ham Sandwich" competed at the Kansas City Regional. "Ham Sandwich" was designed to be a "jack-of-all-trades" robot which would block, capture and place inter-tubes, and lift alliance robots for bonus points. Although the team did not receive any awards during the 2006-2007 year, they learned many valuable lessons which they have applied every year since.</p>
       </div>
+      
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="1">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2005-2006.jpg" width="200" height="200" alt="">
