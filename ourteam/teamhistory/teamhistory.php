@@ -31,7 +31,8 @@
 		<h3>Awards:</h3>
 		<strong>Industrial Safety Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 was presented the Industrial Safety Award for progressing beyond safety fundamentals by using innovative ways to eliminate and protect against hazards.<br/>
 		<strong>Entrepreneurship Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
-        <strong>Engineering Inspiration Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Engineering Inspiration award which celebrates outstanding success in advancing respect and appreciation for engineering within a team&rsquo;s school and community.<br/><br/>
+        <strong>Team Spirit Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Team Spirit award for having a positive attitude both on and off the fields and for always maintaining professionalism.<br/><br/>
+        <strong>Gracious Professionalism Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Gracious Professionalism award for maintaining a professional attitude whether they won or lost.<br/><br/>
       </div>
       
       <hr class="featurette-divider">

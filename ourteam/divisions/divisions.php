@@ -196,7 +196,6 @@
 			<div class="positionDesc">
 				<ul>
 					<li>Works with CFO to build new sponsorships</li>
-					<li>Works with CMO for media releases</li>
 					<li>Community Outreach efforts</li>
 					<li>Ensures all related deadlines are met</li>
 					<li>Verifies all related award requirements and submission dates</li>
