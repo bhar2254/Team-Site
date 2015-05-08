@@ -42,7 +42,7 @@
 				</div>
 		  <hr class="featurette-divider">
 			<div class="featurette offset3" id="2">
-				<h2 class="featurette-heading featurette-right">Quality</h2>
+				<h2 class="featurette-heading featurette-right">Logistics</h2>
 				<p class="lead"><strong>Chief Logistics Officer (CLO):</strong> Mentored by Ashley Heaivilin and Jon Nelson
 			<div class="positionDesc">
 				<ul>
@@ -190,7 +190,7 @@
 			</div>
 		  </div>
 		  <hr class="featurette-divider">
-			<div class="featurette" id="4">
+			<div class="featurette offset3" id="4">
 				<h2 class="featurette-heading featurette-right">Public Relations</h2>
 				<p class="lead"><strong>Chief Public Relations Officer (CPRO):</strong> Mentored by Ashley Heaivilin
 			<div class="positionDesc">
