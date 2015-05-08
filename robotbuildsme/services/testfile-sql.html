@@ -1,0 +1,90 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script type="text/javascript" src="../bootstrap/js/jquery.js"></script>
+
+        <script type="text/javascript">
+            var scoutingDB = {};
+            scoutingDB.webdb = {};
+            scoutingDB.populate = {};
+            scoutingDB.webdb.db = null;
+            scoutingDB.populate.rawObj = null;
+            
+            scoutingDB.webdb.open = function() { 
+                var dbSize = 5 * 1024 * 1024;
+                scoutingDB.webdb.db = openDatabase("ScoutingDBLocal", "1.0", "ScoutingDB", dbSize);
+                
+            }
+            scoutingDB.webdb.createTable = function () {
+                var db = scoutingDB.webdb.db;
+                db.transaction(function(tx){
+                    tx.executeSql("CREATE TABLE IF NOT EXISTS teams (teamnumber INTEGER, teamname TEXT, location TEXT, sponsors TEXT)", []);
+                    //tx.executeSql("CREATE TABLE IF NOT EXISTS scoutingform (id UNIQUE, ", []);
+                })
+            }
+            
+            scoutingDB.webdb.onError = function(tx, e) {
+                alert('There has been an error : ' + e.message);
+            }
+            scoutingDB.webdb.onSuccess = function(tx, r) {
+                //Re-render the data.
+            }
+            scoutingDB.webdb.addTeam = function(teamObjIn) {
+                var db = scoutingDB.webdb.db;
+                db.transaction(function(tx){
+                    tx.executeSql("INSERT into teams (teamnumber, teamname, location, sponsors) VALUES (?,?,?,?)", [teamObjIn.teamnumber, teamObjIn.teamname, teamObjIn.location, teamObjIn.sponsors], scoutingDB.webdb.onSuccess, scoutingDB.webdb.onError);
+                });
+                
+            }
+            scoutingDB.webdb.deleteTeamByTeamNumber = function(teamNumIn)
+            {
+                var db = scoutingDB.webdb.db;
+                db.transaction(function(tx){
+                    tx.executeSql("DELETE FROM teams WHERE teamnumber = ?", [teamNumIn], scoutingDB.webdb.onSuccess, scoutingDB.webdb.onError);
+                });
+                
+            }
+            scoutingDB.webdb.dropTeamTable = function()
+            {
+                var db = scoutingDB.webdb.db;
+                db.transaction(function(tx) {
+                    tx.executeSql("DROP table teams");
+                });
+            }
+            scoutingDB.releaseRawObject = function()
+            {
+                rawObj = null;
+            }
+            scoutingDB.populate.populateCapturedTeams = function()
+            {
+                //Change raw Obj later.
+                for(x in scoutingDB.populate.rawObj.teams)
+                    {
+                        scoutingDB.webdb.addTeam(scoutingDB.populate.rawObj.teams[x]);
+                    }
+            }
+            scoutingDB.populate.fetchFromServer = function()
+            {
+                $.get('team-list-all.php', function(data) {
+                //This is where we will extract the team list.
+                       scoutingDB.populate.rawObj = data;
+                    }, "json");
+            }
+        </script>
+        <script type="text/javascript">
+            scoutingDB.populate.fetchFromServer();
+            scoutingDB.webdb.open();
+            scoutingDB.webdb.createTable();
+            scoutingDB.populate.populateCapturedTeams();
+        </script>
+    </head>
+    <body>
+        <div>TODO write content</div>
+    </body>
+</html>
