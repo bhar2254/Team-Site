@@ -20,27 +20,27 @@
 				<p class="lead">
 					<ul>
 			<!-- This is updated-->
-						<li><strong>Katie</strong> &mdash; 2nd year Member &mdash; <a href="#danielf" role="button" data-toggle="modal">View Biography</a>
+						<li><strong>Katie</strong> &mdash; 2nd year Member &mdash; <a href="#ceo" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Executive Officer (CEO)</li>
 							</ul>
 						</li>
-						<li><strong>Jean-Charles L.</strong> &mdash; 3rd year member &mdash;
+						<li><strong>Jean-Charles L.</strong> &mdash; 3rd year member &mdash; <a href="#coo" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Operations Officer (COO)</li>
 							</ul>
 						</li>
-						<li><strong>Anthony B.</strong> &mdash; 4th year member &mdash; <!--<a href="#jonathant" role="button" data-toggle="modal">View Biography</a>-->
+						<li><strong>Anthony B.</strong> &mdash; 4th year member &mdash;  <a href="#clo" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Logistics Officer (CLO)</li>
 							</ul>
 						</li>
-						<li><strong>Joey F.</strong> &mdash; 4th year member &mdash;
+						<li><strong>Joey F.</strong> &mdash; 4th year member &mdash; <a href="#cpro" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Public Relations Officers (CPRO)</li>
 							</ul>
 						</li>
-						<li><strong>Sarah N.</strong> &mdash; 2nd year member  &mdash;
+						<li><strong>Sarah N.</strong> &mdash; 2nd year member  &mdash; <a href="#cfo" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Financial Officer (CFO)</li>
 							</ul>

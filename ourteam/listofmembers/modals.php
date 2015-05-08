@@ -1,8 +1,6 @@
-
-
 <!-- Modals -->
-<!-- danielf -->
-<div id="danielf" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+<!-- ceo -->
+<div id="ceo" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="modal-header">
 		<h3>Katie</h3>
 	</div>
@@ -16,8 +14,8 @@
 		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
 	</div>
 </div>
-<!-- dallasb -->
-<div id="dallasb" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+<!-- coo -->
+<div id="coo" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="modal-header">
 		<h3>Dallas B.</h3>
 	</div>
@@ -31,40 +29,10 @@
 		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
 	</div>
 </div>
-<!-- zachg -->
-<div id="zachg" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+<!-- cpro -->
+<div id="cpro" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="modal-header">
-		<h3>Zach G.</h3>
-	</div>
-	<div class="modal-body">
-		<p><strong>Grade: </strong>12th</p>
-		<p><strong>Postion: </strong>Chief Media Officer</p>
-		<p><strong>Number of years on team: </strong>4</p>
-		<p><strong>Why did you join the team: </strong>I enjoyed participating in FLL, and a teacher recommended I continue with FRC. Some prodding from parents and an internal desire to do nerdy stuff as well.</p>
-	</div>
-	<div class="modal-footer">
-		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-	</div>
-</div>
-<!-- jonathant -->
-<div id="jonathant" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
-	<div class="modal-header">
-		<h3>Jonathan T.</h3>
-	</div>
-	<div class="modal-body">
-		<p><strong>Grade: </strong>11th</p>
-		<p><strong>Postion: </strong>Chief Quality Officer</p>
-		<p><strong>Number of years on team: </strong>3</p>
-		<p><strong>Why did you join the team: </strong>I was asked to by several of my friends on the team.</p>
-	</div>
-	<div class="modal-footer">
-		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-	</div>
-</div>
-<!-- tylerr -->
-<div id="tylerr" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
-	<div class="modal-header">
-		<h3>Tyler R.</h3>
+		<h3>Joey F.</h3>
 	</div>
 	<div class="modal-body">
 		<p><strong>Grade: </strong>11th</p>
@@ -76,10 +44,10 @@
 		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
 	</div>
 </div>
-<!-- morganh -->
-<div id="morganh" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
+<!-- cfo -->
+<div id="cfo" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="modal-header">
-		<h3>Morgan H.</h3>
+		<h3>Sarah N.</h3>
 	</div>
 	<div class="modal-body">
 		<p><strong>Grade: </strong>12th</p>
