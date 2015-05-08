@@ -20,7 +20,7 @@
 				<p class="lead">
 					<ul>
 			<!-- This is updated-->
-						<li><strong>Katie</strong> &mdash; 2nd year Member &mdash; 
+						<li><strong>Katie</strong> &mdash; 2nd year Member &mdash; <a href="#danielf" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Executive Officer (CEO)</li>
 							</ul>
@@ -67,17 +67,22 @@
 								<li>Programming Lead</li>
 							</ul>
 						</li>
-						<li><strong>Tyler T.</strong> &mdash; 2nd year member
+						<li><strong>Donnie S.</strong> &mdash; 2nd year member
 							<ul>
 								<li>Electrical Lead</li>
 							</ul>
 						</li>
-						<li><strong>Tyler E.</strong> &mdash; 2nd year member
+						<li><strong>Stevie S.</strong> &mdash; 2nd year member
 							<ul>
 								<li>Mechanical Lead</li>
 							</ul>
 						</li>
-						<li><strong>Brooke Y.</strong> &mdash; 2nd year member
+						<li><strong>Ben R.</strong> &mdash; 3nd year member
+							<ul>
+								<li>Research and Development Lead</li>
+							</ul>
+						</li>
+						<li><strong>Christian B.</strong> &mdash; 2nd year member
 							<ul>
 								<li>Inventory Lead</li>
 							</ul>
@@ -87,9 +92,14 @@
 								<li>Safety Lead</li>
 							</ul>
 						</li>
-						<li><strong>Canadian? IDK</strong> &mdash; 3rd year member
+						<li><strong>Graham R.</strong> &mdash; 3rd year member
 							<ul>
 								<li>CAD Lead</li>
+							</ul>
+						</li>
+						<li><strong>Liam F.</strong> &mdash; 4th year member
+							<ul>
+								<li>Drive Team Lead</li>
 							</ul>
 						</li>
 					</ul>

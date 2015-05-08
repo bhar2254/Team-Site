@@ -5,7 +5,7 @@
  */   
 $videoArray = array();
          
-   $videoArray['Week Siz'] = "WNeDi3p7Toc";
+   $videoArray['Week Six'] = "WNeDi3p7Toc";
    $videoArray['Week Five'] = "WNeDi3p7Toc";
    $videoArray['Week Four'] = "WNeDi3p7Toc";
    $videoArray['Week Three'] = "WNeDi3p7Toc";
