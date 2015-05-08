@@ -1,4 +1,4 @@
-<?
+<?php
 $pageTitle = "Cadalog";
 $prependPath = "/var/www/robotics";
 $prependCSSPath = null;

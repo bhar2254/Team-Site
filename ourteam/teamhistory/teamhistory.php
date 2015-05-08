@@ -10,7 +10,7 @@
           <li><a href="#6"><i class="icon-chevron-right"></i>2010-2011</a></li>
           <li><a href="#5"><i class="icon-chevron-right"></i>2009-2010</a></li>
           <li><a href="#4"><i class="icon-chevron-right"></i>2008-2009</a></li>
-          <li><a href="#3><i class="icon-chevron-right"></i>2007-2008</a></li>
+          <li><a href="#3"><i class="icon-chevron-right"></i>2007-2008</a></li>
           <li><a href="#2"><i class="icon-chevron-right"></i>2006-2007</a></li>
           <li><a href="#1"><i class="icon-chevron-right"></i>2005-2006</a></li>
         </ul>

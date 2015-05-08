@@ -20,7 +20,7 @@
 					1624 Herald Ave<br />
 					Cincinnati, OH 45207
 					
-					<a href="http://www.engr.uark.edu/first/4911.php" target="_blank">More Information</a>
+					<a href="http://www.queencityfirst.org/" target="_blank">More Information</a>
 
 				</p>
 		  </div>
