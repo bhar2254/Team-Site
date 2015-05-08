@@ -190,8 +190,8 @@
 			</div>
 		  </div>
 		  <hr class="featurette-divider">
-			<div class="featurette" id="5">
-				<h2 class="featurette-heading">Public Relations</h2>
+			<div class="featurette" id="4">
+				<h2 class="featurette-heading featurette-right">Public Relations</h2>
 				<p class="lead"><strong>Chief Public Relations Officer (CPRO):</strong> Mentored by Ashley Heaivilin
 			<div class="positionDesc">
 				<ul>
@@ -301,27 +301,26 @@
 					</div>
 					</div>
 			</div>
-			
-		  </div>
-		  <hr class="featurette-divider">
-			<div class="featurette offset3" id="6">
-				<h2 class="featurette-heading featurette-right">Finances</h2>
-				<p class="lead"><strong>Chief Financial Officer (CFO):</strong> Mentored by Ashley Heaivilin
-			<div class="positionDesc">
-				<ul>
-					<li>Ensures all related deadlines are met</li>
-					<li>Verifies all award requirements and submission dates</li>
-					<li>Supervises Accountant</li>
-				</ul>	
-				<div class="indented">
-					<strong>Accountant</strong>
-					<ul >
-						<li>Maintains budget</li>
-						<li>Creates/modifies business plan</li>
-						<li>Creates and maintains  budget report at competition</li>
-						<li>Responsible for submitting Entrepreneurship Award and Bill Of Materials (BOM)</li>
-						<li>Supervises Accounting Team</li>
-					</ul>
+			</div>
+		  	<hr class="featurette-divider">
+				<div class="featurette offset3" id="5">
+					<h2 class="featurette-heading">Finances</h2>
+					<p class="lead"><strong>Chief Financial Officer (CFO):</strong> Mentored by Ashley Heaivilin
+				<div class="positionDesc">
+					<ul>
+						<li>Ensures all related deadlines are met</li>
+						<li>Verifies all award requirements and submission dates</li>
+						<li>Supervises Accountant</li>
+					</ul>	
+					<div class="indented">
+						<strong>Accountant</strong>
+						<ul >
+							<li>Maintains budget</li>
+							<li>Creates/modifies business plan</li>
+							<li>Creates and maintains  budget report at competition</li>
+							<li>Responsible for submitting Entrepreneurship Award and Bill Of Materials (BOM)</li>
+							<li>Supervises Accounting Team</li>
+						</ul>
 					<div class="indented">
 						<strong>Presentation Team</strong>
 						<ul>
