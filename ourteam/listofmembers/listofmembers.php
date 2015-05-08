@@ -82,27 +82,12 @@
 								<li>Inventory Lead</li>
 							</ul>
 						</li>
-						<li><strong>Drake P.</strong> &mdash; 2nd year member
-							<ul>
-								<li>Photography/Media Lead</li>
-							</ul>
-						</li>
-						<li><strong>Drake P.</strong> &mdash; 2nd year member
-							<ul>
-								<li>Animation Lead</li>
-							</ul>
-						</li>
-						<li><strong>Darian E.</strong> &mdash; 3rd year member
-							<ul>
-								<li>Research and Development Lead</li>
-							</ul>
-						</li>
 						<li><strong>Asher W.</strong> &mdash; 1st year member
 							<ul>
 								<li>Safety Lead</li>
 							</ul>
 						</li>
-						<li><strong>Jordan N.</strong> &mdash; 3rd year member
+						<li><strong>Canadian? IDK</strong> &mdash; 3rd year member
 							<ul>
 								<li>CAD Lead</li>
 							</ul>

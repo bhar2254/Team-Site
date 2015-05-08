@@ -4,7 +4,11 @@
  * and open the template in the editor.
  */   
 $videoArray = array();
-   
+         
+   $videoArray['Week Siz'] = "WNeDi3p7Toc";
+   $videoArray['Week Five'] = "WNeDi3p7Toc";
+   $videoArray['Week Four'] = "WNeDi3p7Toc";
+   $videoArray['Week Three'] = "WNeDi3p7Toc";
    $videoArray['Week Two'] = "WNeDi3p7Toc";
    $videoArray['Week One'] = "q3zcZ8zdq_U";
    
