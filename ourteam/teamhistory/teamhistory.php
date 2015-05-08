@@ -35,8 +35,8 @@
       </div>
       
       <hr class="featurette-divider">
-      <div class="featurette featurette-right" id="9">
-        <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2010-2011.jpg" width="200" height="200" alt="">
+      <div class="featurette" id="9">
+        <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2010-2011.jpg" width="200" height="200" alt="">
         <h2 class="featurette-heading">2013-2014</h2>
         <p class="lead"><a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2011-logo-motion%E2%84%A2-game">LOGOMOTION<sup>TM</sup></a> is the 2010-2011 game where robots organize game pieces on pegs in a pattern of three rows and three columns. More points are awarded for successfully duplicating the pattern of the FIRST<sup>&reg;</sup> logo with the triangle, circle, and square game pieces arranged sequentially. After this occurs, during both the teleop period and the autonomous period, robots can then begin the end-game sequence and move toward the poles in the center of the field. Each robot can deploy their own mini-bot or another team's mini-bot. As they launch each mini-bot, the mini-bots proceed to climb to the tops of the towers and race to score more bonus points. At the Minnesota Regional, our team qualified to the St. Louis National Competition with a Industrial Safety Award and an Engineering Inspiration Award.
           <h3>Awards:</h3>
