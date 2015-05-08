@@ -1,4 +1,4 @@
-<?
+<?php
 $pageTitle = "Pillow Block";
 $prependPath = "/var/www/robotics";
 $prependCSSPath = null;

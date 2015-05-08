@@ -1,4 +1,4 @@
-<?
+<?php
 $pageTitle = "Frame Systems";
 $prependPath = "/var/www/robotics";
 $prependCSSPath = null;

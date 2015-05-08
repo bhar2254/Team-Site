@@ -1,4 +1,4 @@
-<?
+<?php
 $pageTitle = "Cadalog - Award Submissions - 2010-2011";
 $prependPath = "/var/www/robotics";
 $prependCSSPath = null;
