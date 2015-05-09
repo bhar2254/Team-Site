@@ -22,7 +22,7 @@
       <div class="featurette">
       FIRST<sup>&reg;</sup> Team 1764 was established in 2005 with the help of our founding sponsor, the Ewing Marion Kauffman Foundation. In the five years since, the team has grown and developed into a successful program that holds many proud accomplishments.
       </div>
-      
+<!-- 2014-2015 --> 
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="10">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2011-2012.jpg" width="200" height="200" alt="">
@@ -31,10 +31,10 @@
 		<h3>Awards:</h3>
 		<strong>Industrial Safety Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 was presented the Industrial Safety Award for progressing beyond safety fundamentals by using innovative ways to eliminate and protect against hazards.<br/>
 		<strong>Entrepreneurship Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
-        <strong>Team Spirit Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Team Spirit award for having a positive attitude both on and off the fields and for always maintaining professionalism.<br/><br/>
+        <strong>Team Spirit Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Team Spirit award for having a positive attitude both on and off the fields and for always maintaining professionalism.<br/>
         <strong>Gracious Professionalism Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Gracious Professionalism award for maintaining a professional attitude whether they won or lost.<br/><br/>
       </div>
-      
+<!-- 2013-2014 -->
       <hr class="featurette-divider">
       <div class="featurette" id="9">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2010-2011.jpg" width="200" height="200" alt="">
@@ -44,7 +44,7 @@
         <strong>Industrial Safety Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 was presented the Industrial Safety Award for progressing beyond safety fundamentals by using innovative ways to eliminate and protect against hazards.<br/>
         <strong>Engineering Inspiration Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Engineering Inspiration award which celebrates outstanding success in advancing respect and appreciation for engineering within a team&rsquo;s school and community.<br/><br/>
         </div>
-        
+<!-- 2012-2013 -->    
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="8">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2011-2012.jpg" width="200" height="200" alt="">
@@ -55,7 +55,7 @@
 		<strong>Entrepreneurship Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
         <strong>Engineering Inspiration Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Engineering Inspiration award which celebrates outstanding success in advancing respect and appreciation for engineering within a team&rsquo;s school and community.<br/><br/>
       </div>
-      
+<!-- 2011-2012 -->      
       <hr class="featurette-divider">
       <div class="featurette" id="7">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2011-2012.jpg" width="200" height="200" alt="">
@@ -66,8 +66,8 @@
 		<strong>Entrepreneurship Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
         <strong>Engineering Inspiration Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Engineering Inspiration award which celebrates outstanding success in advancing respect and appreciation for engineering within a team&rsquo;s school and community.<br/><br/>
       </div>
-      
-      <hr class="featurette-divider">
+<!-- 2010-2011 -->
+	<hr class="featurette-divider">
       <div class="featurette featurette-right" id="6">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2010-2011.jpg" width="200" height="200" alt="">
         <h2 class="featurette-heading">2010-2011</h2>
@@ -76,7 +76,7 @@
         <strong>Industrial Safety Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 was presented the Industrial Safety Award for progressing beyond safety fundamentals by using innovative ways to eliminate and protect against hazards.<br/>
         <strong>Engineering Inspiration Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Engineering Inspiration award which celebrates outstanding success in advancing respect and appreciation for engineering within a team&rsquo;s school and community.<br/><br/>
         </div>
-        
+ <!-- 2009-2010 -->       
       <hr class="featurette-divider">
       <div class="featurette" id="5">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2009-2010.jpg" width="200" height="200" alt="">
@@ -87,7 +87,7 @@
         <strong>Safety Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 earned this award for consistently demonstrating excellence in industrial safety throughout the competition.<br/>
         <strong>Judges Award</strong> &mdash; The Judges Award was presented in recognition of the team's efforts, performance and/or dynamics which were found to be exemplary.  
       </div>
-      
+<!-- 2008-2009 --> 
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="4">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2008-2009.jpg" width="200" height="200" alt="">
@@ -99,7 +99,7 @@
         <strong>Rockwell Automation Innovation Award</strong> &mdash; This award was bestowed on us for being the only team to score in autonomous mode at the St. Louis Regional.<br/>
         <strong>CAD Finalist</strong> &mdash; We were chosen as one of the top five teams worldwide to compete for the CAD Award at the finals in Atlanta, GA. Teams are chosen as finalists for their skills and use of applications in Autodesk Inventor.
       </div>
-      
+<!-- 2007-2008 --> 
       <hr class="featurette-divider">
       <div class="featurette" id="3">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2007-2008.jpg" width="200" height="200" alt="">
@@ -109,14 +109,14 @@
         <strong>Motorola Quality Award</strong> &mdash; We received this award due to the ingenuity and application of omni-drive to our unique robot. Furthermore, our omni-drive wheels were student designed by Logan W. and custom manufactured by Pride Manufacturing. <br/>
         <strong>CAD Finalist</strong> &mdash; We were chosen as one of the top five teams worldwide to compete for the CAD Award at the finals in Atlanta, GA. Teams are chosen as finalists for their skills and use of applications in Autodesk Inventor.
       </div>
-      
+<!-- 2006-2007 -->       
       <hr class="featurette-divider">
       <div class="featurette" id="2">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2006-2007.jpg" width="200" height="200" alt="">
         <h2 class="featurette-heading">2006-2007</h2>
         <p class="lead">The 2006-2007 game "<a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2007-competition-manual-and-related-documents">Rack and Roll</a>" featured an aluminum structure called the "rack" on which blue and red inter-tubes were placed and scored in a "connect four" fashion. At the end of the game, robots scrambled to lift and be lifted by their team-mates. FIRST<sup>&reg;</sup> Team 1764's robot "Ham Sandwich" competed at the Kansas City Regional. "Ham Sandwich" was designed to be a "jack-of-all-trades" robot which would block, capture and place inter-tubes, and lift alliance robots for bonus points. Although the team did not receive any awards during the 2006-2007 year, they learned many valuable lessons which they have applied every year since.</p>
       </div>
-      
+<!-- 2005-2006 -->
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="1">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2005-2006.jpg" width="200" height="200" alt="">
