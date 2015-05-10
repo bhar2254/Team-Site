@@ -110,44 +110,19 @@
 				<p class="lead">
 					<ul>
 					<strong>
-					<li>Byron A.</li>
-					<li>Graham A.</li>
-					<li>Anthony B.</li>
-					<li>Logan B.</li>
-					<li>Austin C.</li>
-					<li>Noah C.</li>
 					<li>Liam F.</li>
-					<li>Alex F.</li>
-					<li>Joseph F.</li>
-					<li>Tyler G.</li>
-					<li>Nicholas H.</li>
-					<li>Garrett I.</li>
-					<li>Seth K.</li>
-					<li>Ethan L.</li>
-					<li>David L.</li>
-					<li>Alexander L.</li>
 					<li>Grant M.</li>
-					<li>Jonathan M.</li>
-					<li>Samuel M.</li>
 					<li>Blake N.</li>
-					<li>Emily P.</li>
-					<li>Razinah P.</li>
-					<li>Lisa P.</li>
 					<li>Rafae P.</li>
 					<li>Benjamin R.</li>
 					<li>Graham R.</li>
-					<li>Richard R.</li>
 					<li>Matthias S.</li>
 					<li>Sydney S.</li>
-					<li>Areos S.</li>
 					<li>Austin S.</li>
 					<li>Jakob U.</li>
-					<li>Preston V.</li>
 					<li>Jacob V.</li>
 					<li>Asher W.</li>
 					<li>Given W.</li>
-					<li>Zachary W.</li>
-					<li>Nicholas Y.</li>
 					</strong>
 					</ul>
 		  </div>
