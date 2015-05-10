@@ -110,6 +110,7 @@
 				<p class="lead">
 					<ul>
 					<strong>
+					<li>Paige B.</li>
 					<li>Liam F.</li>
 					<li>Grant M.</li>
 					<li>Blake N.</li>
