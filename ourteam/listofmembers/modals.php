@@ -2,7 +2,7 @@
 <!-- ceo -->
 <div id="ceo" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="modal-header">
-		<h3>Katie</h3>
+		<h3>Katie A.</h3>
 	</div>
 	<div class="modal-body">
 		<p><strong>Grade: </strong>12th</p>

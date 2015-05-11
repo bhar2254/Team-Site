@@ -20,7 +20,7 @@
 				<p class="lead">
 					<ul>
 			<!-- This is updated-->
-						<li><strong>Katie</strong> &mdash; 2nd year Member &mdash; <a href="#ceo" role="button" data-toggle="modal">View Biography</a>
+						<li><strong>Katie A.</strong> &mdash; 2nd year Member &mdash; <a href="#ceo" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Executive Officer (CEO)</li>
 							</ul>
