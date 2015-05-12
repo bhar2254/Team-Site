@@ -6,9 +6,9 @@
         
         $carouselArray = array(
             
-		array(Title => "Thank You Sponsors", IMG=>"robot-sponsors.jpg", Caption => "Special thanks to all of our sponsors for their support of our program", URL => "/ourteam/sponsorlist/", btn=>"Our Sponsors"),
+		array(Title => "Thank You Sponsors", IMG=>"robot.jpg", Caption => "Special thanks to all of our sponsors for their support of our program", URL => "/ourteam/sponsorlist/", btn=>"Our Sponsors"),
         array(Title => "Science Night", IMG => "dallas.jpg", Caption => "Dallas interacts with youth at Liberty Oaks Elementary School on Science Night.", URL => "/media/galleries/index.php?gallery=sciencenight&amp;title=Science%20Night", btn => "More photos"),
-        array(Title => "Our Team", IMG => "teamphoto.jpg", Caption => "FIRST<sup>&reg;</sup> Team 1764 in all of its splendor and glory!", URL => "/ourteam/missionandvalues/", btn => "Find out more"),
+        array(Title => "Our Team", IMG => "teamphoto2015.jpg", Caption => "FIRST<sup>&reg;</sup> Team 1764 in all of its splendor and glory!", URL => "/ourteam/missionandvalues/", btn => "Find out more"),
         array(Title => "Highway Cleanup", IMG => "hIMG_1199.jpg", Caption => "The team cleans up a stretch of highway adopted through MoDot's Adopt-a-Highway program.", URL => "/media/galleries/index.php?gallery=highway&amp;title=Highway%20Cleanup", btn => "More photos"),
         );
 

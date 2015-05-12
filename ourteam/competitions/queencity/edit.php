@@ -43,6 +43,7 @@ if(isset($_GET['loginpage']))
  else {
         ?>
 <form id="loginform" name="loginform" method="post">
+	<
     <div>
         <label>Username:</label> <input type="text" name="username" id="username" value="<?= $username; ?>" /> <br />
         <label>Password: </label> <input type="password" name="password" id="password" value="" /> <br />
@@ -56,7 +57,7 @@ if(isset($_GET['loginpage']))
 }
 else
 {
-    $htmlPg = file_get_contents('razorback.php');
+    $htmlPg = file_get_contents('queencity.php');
     if($authorized)
     {
         if($_POST['savepage'] == "Update")
@@ -67,7 +68,7 @@ else
             echo " <a href=\"index.php\">View Page</a>";
             echo "<br /><br /><br />";
             echo $htmlIn;
-            file_put_contents('razorback.php', $htmlIn);
+            file_put_contents('queencity.php', $htmlIn);
         }
         else
         {

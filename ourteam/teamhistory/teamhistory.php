@@ -25,7 +25,7 @@
 <!-- 2014-2015 --> 
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="10">
-        <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2011-2012.jpg" width="200" height="200" alt="">
+        <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2014-2015.jpg" width="200" height="200" alt="">
         <h2 class="featurette-heading">2014-2015</h2>
         <p class="lead">“<a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2015-game">Recycle Rush</a>” is a recycling-themed game played by two Alliances of three robots each. Robots score points by stacking totes on scoring platforms, capping those stacks with recycling containers, and properly disposing of pool noodles, representing litter. In keeping with the recycling theme of the game, all game pieces used are reusable or recyclable by teams in their home locations or by FIRST at the end of the season.
 		<h3>Awards:</h3>
@@ -37,7 +37,7 @@
 <!-- 2013-2014 -->
       <hr class="featurette-divider">
       <div class="featurette" id="9">
-        <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2010-2011.jpg" width="200" height="200" alt="">
+        <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2013-2014.jpg" width="200" height="200" alt="">
         <h2 class="featurette-heading">2013-2014</h2>
         <p class="lead"><a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2011-logo-motion%E2%84%A2-game">LOGOMOTION<sup>TM</sup></a> is the 2010-2011 game where robots organize game pieces on pegs in a pattern of three rows and three columns. More points are awarded for successfully duplicating the pattern of the FIRST<sup>&reg;</sup> logo with the triangle, circle, and square game pieces arranged sequentially. After this occurs, during both the teleop period and the autonomous period, robots can then begin the end-game sequence and move toward the poles in the center of the field. Each robot can deploy their own mini-bot or another team's mini-bot. As they launch each mini-bot, the mini-bots proceed to climb to the tops of the towers and race to score more bonus points. At the Minnesota Regional, our team qualified to the St. Louis National Competition with a Industrial Safety Award and an Engineering Inspiration Award.
           <h3>Awards:</h3>
@@ -47,7 +47,7 @@
 <!-- 2012-2013 -->    
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="8">
-        <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2011-2012.jpg" width="200" height="200" alt="">
+        <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2012-2013.JPG" width="200" height="200" alt="">
         <h2 class="featurette-heading">2012-2013</h2>
         <p class="lead">“<a target="_blank" href="http://www.usfirst.org/aboutus/rebound-rumble-robotics-game-unveiled-by-dean-kamen-and-host-of-celebrities">Rebound Rumble</a>” was based off of basketball. During a match our robot would try to collect small basketballs and throw them into basketball hoops of varying heights and point values. The field was divided by a small bump with teeter-totter “bridges”. That year, FIRST added a twist to the autonomous period at the beginning of the round: one team per alliance could use the Microsoft Kinect to control the robot in a new “hybrid” mode. The end-game required teams to balance on the bridges in the middle of the field for bonus points, and had the opportunity to gain rank-affecting “coopertition” points by balancing with the other alliance on the middle bridge. That year, FIRST Team 1764 competed at the Kansas City and Colorado Regionals. The team earned the Industrial Safety Award and Entrepreneurship Award as the Greater Kansas City Regional. At the Colorado Regional in Denver, the team was selected for an alliance and made it to semifinals. We were also rewarded with the Engineering Inspiration Award for the third year in a row thanks in large part to our new project: The Robot Builds Me. Thanks to this we qualified for Championships at St. Louis.
 		<h3>Awards:</h3>
@@ -58,7 +58,7 @@
 <!-- 2011-2012 -->      
       <hr class="featurette-divider">
       <div class="featurette" id="7">
-        <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2011-2012.jpg" width="200" height="200" alt="">
+        <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2011-2012.JPG" width="200" height="200" alt="">
         <h2 class="featurette-heading">2011-2012</h2>
         <p class="lead">“<a target="_blank" href="http://www.usfirst.org/aboutus/rebound-rumble-robotics-game-unveiled-by-dean-kamen-and-host-of-celebrities">Rebound Rumble</a>” was based off of basketball. During a match our robot would try to collect small basketballs and throw them into basketball hoops of varying heights and point values. The field was divided by a small bump with teeter-totter “bridges”. That year, FIRST added a twist to the autonomous period at the beginning of the round: one team per alliance could use the Microsoft Kinect to control the robot in a new “hybrid” mode. The end-game required teams to balance on the bridges in the middle of the field for bonus points, and had the opportunity to gain rank-affecting “coopertition” points by balancing with the other alliance on the middle bridge. That year, FIRST Team 1764 competed at the Kansas City and Colorado Regionals. The team earned the Industrial Safety Award and Entrepreneurship Award as the Greater Kansas City Regional. At the Colorado Regional in Denver, the team was selected for an alliance and made it to semifinals. We were also rewarded with the Engineering Inspiration Award for the third year in a row thanks in large part to our new project: The Robot Builds Me. Thanks to this we qualified for Championships at St. Louis.
 		<h3>Awards:</h3>
