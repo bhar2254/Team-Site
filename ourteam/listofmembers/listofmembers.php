@@ -25,7 +25,7 @@
 								<li>Chief Executive Officer (CEO)</li>
 							</ul>
 						</li>
-						<li><strong>Jean-Charles L.</strong> &mdash; 3rd year member &mdash; <a href="#coo" role="button" data-toggle="modal">View Biography</a>
+						<li><strong>John-Charles L.</strong> &mdash; 3rd year member &mdash; <a href="#coo" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Operations Officer (COO)</li>
 							</ul>

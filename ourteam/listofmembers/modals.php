@@ -18,7 +18,7 @@
 <!-- coo -->
 <div id="coo" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="modal-header">
-		<h3>Jean-Charles L.</h3>
+		<h3>John-Charles L.</h3>
 	</div>
 	<div class="modal-body">
 		<p><strong>Grade: </strong>12th</p>
