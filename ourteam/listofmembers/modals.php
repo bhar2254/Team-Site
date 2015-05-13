@@ -9,7 +9,7 @@
 		<p><strong>Postion: </strong>Chief Executive Officer</p>
 		<p><strong>Number of years on team: </strong>2</p>
 		<p><strong>Reason for joining the team: 
-		</strong>I joined the team because I wanted to lean more about CAD and Autodesk Inventor.</p>
+		</strong>I originally joined the robotics team to work on the CAD section but I was tricked into helping on Business team as well. I joined for the work, the friends, and the family you make on our team.</p>
 	</div>
 	<div class="modal-footer">
 		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
@@ -28,7 +28,7 @@
 		<p><strong>Number of years on team: </strong>2</p>
 		
 		<p><strong>Why did you join the team: 
-		</strong>I joined after hearing about what they do and finding an interest in working with my hands.</p>
+		</strong>I was invited by a friend who told me about the fun things 1764 does, from building the robots to competing in events.  I was interested in building things and making friends, but found so much more after my first year.</p>
 	</div>
 	<div class="modal-footer">
 		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
@@ -44,10 +44,10 @@
 		
 		<p><strong>Postion: </strong>Chief Operations Officer</p>
 		
-		<p><strong>Number of years on team: </strong>3</p>
+		<p><strong>Number of years on team: </strong>4</p>
 		
 		<p><strong>Why did you join the team: 
-		</strong>I joined after hearing about what they do and finding an interest in working with my hands.</p>
+		</strong>I joined because one of my friends got me into it and I stayed for it because of the people in it.</p>
 	</div>
 	<div class="modal-footer">
 		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
@@ -63,7 +63,7 @@
 		
 		<p><strong>Postion: </strong>Chief Public Relations Officer</p>
 		
-		<p><strong>Number of years on team: </strong>2</p>
+		<p><strong>Number of years on team: </strong>3</p>
 		
 		<p><strong>Why did you join the team: 
 		</strong>I wanted to learn in an environment of advanced applied learning. And because the mechanic shirts looked cool.</p>
@@ -85,7 +85,7 @@
 		<p><strong>Number of years on team: </strong>2</p>
 		
 		<p><strong>Why did you join the team: 
-		</strong>I enjoy learning how things are put together and robotics is the only place that I can do that.</p>
+		</strong>I joined the robotics team because I was interested in how everything works together, and decided to do something I love. </p>
 	</div>
 	<div class="modal-footer">
 		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
