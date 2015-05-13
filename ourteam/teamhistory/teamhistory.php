@@ -27,7 +27,7 @@
       <div class="featurette featurette-right" id="10">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2014-2015.jpg" width="200" height="200" alt="">
         <h2 class="featurette-heading">2014-2015</h2>
-        <p class="lead">“<a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2015-game">Recycle Rush</a>” is a recycling-themed game played by two Alliances of three robots each. Robots score points by stacking totes on scoring platforms, capping those stacks with recycling containers, and properly disposing of pool noodles, representing litter. In keeping with the recycling theme of the game, all game pieces used are reusable or recyclable by teams in their home locations or by FIRST at the end of the season.
+        <p class="lead">“<a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2015-game">Recycle Rush</a>” is a recycling-themed game played by two Alliances of three robots each. Robots score points by stacking totes on scoring platforms, capping those stacks with recycling containers, and properly disposing of pool noodles, representing litter. In keeping with the recycling theme of the game, all game pieces used are reusable or recyclable by teams in their home locations or by FIRST at the end of the season. Our robot focused on taking totes from the tote shoot and placing them, in stacks of four, on the nearest scoring platform.
 		<h3>Awards:</h3>
 		<strong>Industrial Safety Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 was presented the Industrial Safety Award for progressing beyond safety fundamentals by using innovative ways to eliminate and protect against hazards.<br/>
 		<strong>Entrepreneurship Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
@@ -39,16 +39,16 @@
       <div class="featurette" id="9">
         <img class="featurette-image pull-right" src="/bootstrap/img/teamhistory/2013-2014.jpg" width="200" height="200" alt="">
         <h2 class="featurette-heading">2013-2014</h2>
-        <p class="lead"><a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2014-game">AERIAL ASSIST<sup>SM</sup></a>is played by two competing Alliances of three robots each on a flat 25’ x 54’ foot field, straddled by a truss suspended just over five feet above the floor. The objective is to score as many balls in goals as possible during a two (2)-minute and 30-second match. The more Alliances score their ball in their goals, and the more they work together to do it, the more points their Alliance receives.
+        <p class="lead"><a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2014-game">AERIAL ASSIST<sup>SM</sup></a> is played by two competing Alliances of three robots each on a flat 25’ x 54’ foot field, straddled by a truss suspended just over five feet above the floor. The objective is to score as many balls in goals as possible during a two (2)-minute and 30-second match. The more Alliances score their ball in their goals, and the more they work together to do it, the more points their Alliance receives.
           <h3>Awards:</h3>
-		<strong>Entrepreneurship Award (x2)</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
+		<strong>Entrepreneurship Award</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
         </div>
 <!-- 2012-2013 -->    
       <hr class="featurette-divider">
       <div class="featurette featurette-right" id="8">
         <img class="featurette-image pull-left" src="/bootstrap/img/teamhistory/2012-2013.JPG" width="200" height="200" alt="">
         <h2 class="featurette-heading">2012-2013</h2>
-        <p class="lead">“” Teams playing <a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2013-competition-manual-and-related-documents">ULTIMATE ASCENT<sup>SM</sup></a> use their ROBOTS to collect and score DISCS in a variety of GOALS. Teams earn additional points by CLIMBING their ALLIANCE’S PYRAMID by the end of the MATCH.
+        <p class="lead">Teams playing <a target="_blank" href="http://www.usfirst.org/roboticsprograms/frc/2013-competition-manual-and-related-documents">ULTIMATE ASCENT<sup>SM</sup></a> use their ROBOTS to collect and score DISCS in a variety of GOALS. Teams earn additional points by CLIMBING their ALLIANCE’S PYRAMID by the end of the MATCH.
 		<h3>Awards:</h3>
 		<strong>Entrepreneurship Award (x2)</strong> &mdash; FIRST<sup>&reg;</sup> Team 1764 received the Entrepreneurship Award for developing a comprehensive business plan in order to define, manage, and achieve team objectives.<br/>
       </div>
