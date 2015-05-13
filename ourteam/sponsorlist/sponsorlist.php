@@ -25,7 +25,7 @@
 		  </div>
 		   <hr class="featurette-divider">
 			<div class="featurette" id="5">
-				<a target="_blank"  href="http://www.ci.liberty.mo.us/index.aspx?nid=55"><img class="featurette-image pull-left" src="/bootstrap/img/sponsors/lpd2.png" width="300"  alt="Police Department"></a>
+				<a target="_blank"  href="http://www.ci.liberty.mo.us/index.aspx?nid=55"><img class="featurette-image pull-left" src="/bootstrap/img/sponsors/lpd.png" width="300"  alt="Police Department"></a>
 				<a target="_blank"  href="http://www.ci.liberty.mo.us/index.aspx?nid=55"><h2 class="featurette-heading">City of Liberty Police Dept.</h2></a>
 		  </div>
 		  <hr class="featurette-divider">

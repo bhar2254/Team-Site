@@ -42,14 +42,21 @@ if(isset($_GET['loginpage']))
     }
  else {
         ?>
-<form id="loginform" name="loginform" method="post">
-	<
-    <div>
-        <label>Username:</label> <input type="text" name="username" id="username" value="<?= $username; ?>" /> <br />
-        <label>Password: </label> <input type="password" name="password" id="password" value="" /> <br />
-        <button name="login" type="submit" value ="Login">Sign In</button>
-    </div>
-</form>
+            <link href="./css/signin.css" rel="stylesheet">
+
+<form class="form-signin">
+        <h2 class="form-signin-heading">Please sign in</h2>
+        <label for="inputEmail" class="sr-only">Email address</label>
+        <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+        <label for="inputPassword" class="sr-only">Password</label>
+        <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="remember-me"> Remember me
+          </label>
+        </div>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+      </form>
         <?php
         
     }
