@@ -14,10 +14,13 @@
 				<h2 class="featurette-heading">Pages</h2>
 				<br/>
 				<li>
-					<p class="lead">Our Team</p>
-					<p class="lead">Team List</p>
-					<p class="lead">Sponsor List</p>
-					<p class="lead">Competitions</p>
+					<ul><p class="lead">Our Team</p>
+						<li>
+							<ul><p class="lead">Team List</p>
+							<ul><p class="lead">Sponsor List</p>
+							<ul><p class="lead">Competitions</p>
+						</i>
+					</ul>
 				</li>
 		  </div>
         </div><!--/span-->
