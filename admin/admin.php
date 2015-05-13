@@ -16,9 +16,9 @@
 				<li>
 					<ul><p class="lead">Our Team</p>
 						<li>
-							<ul><p class="lead">Team List</p>
-							<ul><p class="lead">Sponsor List</p>
-							<ul><p class="lead">Competitions</p>
+							<ul><p class="lead">Team List</p></ul>
+							<ul><p class="lead">Sponsor List</p></ul>
+							<ul><p class="lead">Competitions</p></ul>
 						</i>
 					</ul>
 				</li>
