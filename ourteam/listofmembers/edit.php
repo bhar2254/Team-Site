@@ -56,7 +56,7 @@ if(isset($_GET['loginpage']))
 }
 else
 {
-    $htmlPg = file_get_contents('queencity.php');
+    $htmlPg = file_get_contents('listofmembers.php');
     if($authorized)
     {
         if($_POST['savepage'] == "Update")
@@ -67,7 +67,7 @@ else
             echo " <a href=\"index.php\">View Page</a>";
             echo "<br /><br /><br />";
             echo $htmlIn;
-            file_put_contents('queencity.php', $htmlIn);
+            file_put_contents('listofmembers.php', $htmlIn);
         }
         else
         {
