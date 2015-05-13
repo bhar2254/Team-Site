@@ -19,23 +19,23 @@
 				<h2 class="featurette-heading">Chief Officers</h2>
 				<p class="lead">
 					<ul>
-			<!-- This is updated-->
+			<!-- This is updated (2014-2015)-->
 						<li><strong>Katie A.</strong> &mdash; 2nd year Member &mdash; <a href="#ceo" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Executive Officer (CEO)</li>
 							</ul>
 						</li>
-						<li><strong>John-Charles L.</strong> &mdash; 3rd year member &mdash; <a href="#coo" role="button" data-toggle="modal">View Biography</a>
+						<li><strong>John-Charles L.</strong> &mdash; 2nd year member &mdash; <a href="#coo" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Operations Officer (COO)</li>
 							</ul>
 						</li>
-						<li><strong>Anthony B.</strong> &mdash; 4th year member &mdash;  <a href="#clo" role="button" data-toggle="modal">View Biography</a>
+						<li><strong>Anthony B.</strong> &mdash; 3rd year member &mdash;  <a href="#clo" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Logistics Officer (CLO)</li>
 							</ul>
 						</li>
-						<li><strong>Joey F.</strong> &mdash; 4th year member &mdash; <a href="#cpro" role="button" data-toggle="modal">View Biography</a>
+						<li><strong>Joey F.</strong> &mdash; 3rd year member &mdash; <a href="#cpro" role="button" data-toggle="modal">View Biography</a>
 							<ul>
 								<li>Chief Public Relations Officers (CPRO)</li>
 							</ul>
@@ -52,9 +52,39 @@
 				<h2 class="featurette-heading">Leads</h2>
 				<p class="lead">
 					<ul>
-						<li><strong>Blaine H.</strong> &mdash; 2nd year member
+						<li><strong>Graham R.</strong> &mdash; 3rd year member
 							<ul>
-								<li>Web Development Lead</li>
+								<li>CAD Lead</li>
+							</ul>
+						</li>
+						<li><strong>Sydney S.</strong> &mdash; 2nd year member
+							<ul>
+								<li>Cinematography</li>
+							</ul>
+						</li>
+						<li><strong>Given W.</strong> &mdash; 3rd year member
+							<ul>
+								<li>Community Outreach Lead</li>
+							</ul>
+						</li>
+						<li><strong>Liam F.</strong> &mdash; 4th year member
+							<ul>
+								<li>Driver Development Lead</li>
+							</ul>
+						</li>
+						<li><strong>Donnie S.</strong> &mdash; 2nd year member
+							<ul>
+								<li>Electrical Lead</li>
+							</ul>
+						</li>
+						<li><strong>Christian B.</strong> &mdash; 2nd year member
+							<ul>
+								<li>Inventory Lead</li>
+							</ul>
+						</li>
+						<li><strong>Stevie S.</strong> &mdash; 2nd year member
+							<ul>
+								<li>Mechanical Lead</li>
 							</ul>
 						</li>
 						<li><strong>Ben Y.</strong> &mdash; 3rd year member
@@ -67,29 +97,9 @@
 								<li>Programming Lead</li>
 							</ul>
 						</li>
-						<li><strong>Donnie S.</strong> &mdash; 2nd year member
-							<ul>
-								<li>Electrical Lead</li>
-							</ul>
-						</li>
-						<li><strong>Sydney S.</strong> &mdash; 2nd year member
-							<ul>
-								<li>Cinematography</li>
-							</ul>
-						</li>
-						<li><strong>Stevie S.</strong> &mdash; 2nd year member
-							<ul>
-								<li>Mechanical Lead</li>
-							</ul>
-						</li>
 						<li><strong>Ben R.</strong> &mdash; 3rd year member
 							<ul>
 								<li>Research and Development Lead</li>
-							</ul>
-						</li>
-						<li><strong>Christian B.</strong> &mdash; 2nd year member
-							<ul>
-								<li>Inventory Lead</li>
 							</ul>
 						</li>
 						<li><strong>Asher W.</strong> &mdash; 3rd year member
@@ -97,29 +107,19 @@
 								<li>Safety Lead</li>
 							</ul>
 						</li>
-						<li><strong>Graham R.</strong> &mdash; 3rd year member
-							<ul>
-								<li>CAD Lead</li>
-							</ul>
-						</li>
-						<li><strong>Austin S.</strong> &mdash; 2nd year member
+						<li><strong>Austin S.</strong> &mdash; 3rd year member
 							<ul>
 								<li>Scout Lead</li>
-							</ul>
-						</li>
-						<li><strong>Liam F.</strong> &mdash; 2nd year member
-							<ul>
-								<li>Driver Development Lead</li>
-							</ul>
-						</li>
-						<li><strong>Given W.</strong> &mdash; 2nd year member
-							<ul>
-								<li>Community Outreach Lead</li>
 							</ul>
 						</li>
 						<li><strong>Morgan H.</strong> &mdash; 2nd year member
 							<ul>
 								<li>Spirit Lead</li>
+							</ul>
+						</li>
+						<li><strong>Blaine H.</strong> &mdash; 2nd year member
+							<ul>
+								<li>Web Development Lead</li>
 							</ul>
 						</li>
 					</ul>
@@ -131,11 +131,7 @@
 					<ul>
 					<strong>
 					<li>Paige B.</li>
-					<li>Liam F.</li>
-					<li>George H.</li>
-					<li>John L.</li>
 					<li>Grant M.</li>
-					<li>Paul M.</li>
 					<li>Blake N.</li>
 					<li>Rafae P.</li>
 					<li>Benjamin R.</li>
@@ -143,7 +139,6 @@
 					<li>Matthias S.</li>
 					<li>Sydney S.</li>
 					<li>Austin S.</li>
-					<li>Ringo S.</li>
 					<li>Jakob U.</li>
 					<li>Jacob V.</li>
 					<li>Asher W.</li>

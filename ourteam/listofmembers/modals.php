@@ -44,7 +44,7 @@
 		
 		<p><strong>Postion: </strong>Chief Operations Officer</p>
 		
-		<p><strong>Number of years on team: </strong>4</p>
+		<p><strong>Number of years on team: </strong>3</p>
 		
 		<p><strong>Why did you join the team: 
 		</strong>I joined because one of my friends got me into it and I stayed for it because of the people in it.</p>
@@ -78,7 +78,7 @@
 		<h3>Sarah N.</h3>
 	</div>
 	<div class="modal-body">
-		<p><strong>Grade: </strong>19h</p>
+		<p><strong>Grade: </strong>9th</p>
 		
 		<p><strong>Postion: </strong>Chief Financial Officer</p>
 		
