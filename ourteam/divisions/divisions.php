@@ -16,9 +16,8 @@
 		</div>
 		  <div>
 				<p class="lead">How is FIRST<sup>&reg;</sup> Team 1764 able to function efficiently? We have continued to ramp up our game this year with the help of our business mentor, one more asset in our arsenal of support. She has been invaluable in helping us organize our team and focus our assets. While we have always used a business model, this retired business executive has taken our team to a new level of performance and organization. Click on the image below to see a larger version.</p>
-				<a href="#imgLarge" role="button" data-toggle="modal">
+				<a href="#imgLarge" role="button" data-toggle="modal">View Image</a>
 					<img title="Team 1764 Infrastructure" alt="Team 1764 Infrastructure" src="imgs/Team_Wheel_Infrastructuresmall.jpg">
-				</a>
 		  </div>
 		  <hr class="featurette-divider">
 		  <div class="featurette" id="1">
