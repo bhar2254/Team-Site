@@ -9,7 +9,7 @@
 		<p><strong>Postion: </strong>Chief Executive Officer</p>
 		<p><strong>Number of years on team: </strong>2</p>
 		<p><strong>Reason for joining the team: 
-		</strong>I originally joined the robotics team to work on the CAD section but I was tricked into helping on Business team as well. I joined for the work, the friends, and the family you make on our team.</p>
+		</strong>I initially joined Liberty Robotics so I could be on the CAD team but I quickly learned how much more robotics and FIRST as a whole mean not only to myself but to others so I joined Business team as well, hoping to get the message of FIRST out to the world.</p>
 	</div>
 	<div class="modal-footer">
 		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
